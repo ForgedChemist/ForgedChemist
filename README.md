@@ -21,9 +21,14 @@
 </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="40" height="40"/> 
 </a> 
+  
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Forged?theme=dark&font=Abel" width="450" height="180">
+</p>
 
 
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ForgedChemist&show_icons=true&theme=dark" width="450" height="180">
 </p>
