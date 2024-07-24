@@ -13,9 +13,12 @@
 <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> 
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/>
+<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40"/> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt ="python" width="40" height="40"/>
+<a href="https://portal.azure.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="40" height="40"/>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40">
+
 </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/photoshop.html?skwcid=AL!3085!3!340872550298!e!!g!!photoshop&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE:G:s&s_kwcid=AL!3085!3!340872550298!e!!g!!photoshop!1448694214!55308397806&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
