@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ForgedChemist&color=green" alt="Bora Toprak Yaşar :: Profile Stats"></a>
 <a href="mailto:boratoprakyasar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-boratoprakyasar@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="www.linkedin.com/in/boratoprakyasar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@BoraToprakYasar-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/boratoprakyasar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@BoraToprakYasar-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/boraayasar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-boraayasar-black?style=flat-square&logo=instagram"></a>
 </p>
 
@@ -20,7 +20,7 @@
 <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40">
 
 </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/photoshop.html?skwcid=AL!3085!3!340872550298!e!!g!!photoshop&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE:G:s&s_kwcid=AL!3085!3!340872550298!e!!g!!photoshop!1448694214!55308397806&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="40" height="40"/> 
 </a> 
