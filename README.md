@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ForgedChemist&color=green" alt="Bora Toprak Yaşar :: Profile Stats"></a>
 <a href="mailto:boratoprakyasar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-boratoprakyasar@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/bora-toprak-yaşar-a551a9256/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@BoraToprakYasar-blue?style=flat&logo=linkedin"></a>
+<a href="www.linkedin.com/in/boratoprakyasar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@BoraToprakYasar-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/boraayasar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-boraayasar-black?style=flat-square&logo=instagram"></a>
 </p>
 
